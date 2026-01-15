@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="The Lab by Heisenbets">
+  <defs>
+    <linearGradient id="lab-blue" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1976ff"/>
+      <stop offset="100%" stop-color="#0f5be0"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="96" fill="url(#lab-blue)"/>
+  <path d="M176 170v176h176" fill="none" stroke="#ffffff" stroke-width="28" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M232 300v-70" fill="none" stroke="#ffffff" stroke-width="28" stroke-linecap="round"/>
+  <path d="M288 300v-118" fill="none" stroke="#ffffff" stroke-width="28" stroke-linecap="round"/>
+  <path d="M344 300v-84" fill="none" stroke="#ffffff" stroke-width="28" stroke-linecap="round"/>
+</svg>
