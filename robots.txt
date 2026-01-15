@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vya-tech.com/sitemap.xml
